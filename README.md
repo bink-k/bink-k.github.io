@@ -1,0 +1,2 @@
+# bink-k.github.io
+This project is an activist website about the mental health crisis amongst teens. The mental health of today's teenagers has gotten worse, putting them in danger. Many teenagers and parents lack the knowledge surrrounding mental disorders and the stigmas surrounded by those with mental disorders is making this issue much worse. This website I created using HTML, CSS, Java Script provides some more information about mental health in teenagers.
